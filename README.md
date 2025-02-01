@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://www.techtarget.com/rms/onlineimages/whatis-group_policy_object-f_mobile.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Group Policy and Managing Accounts</h1>
 This tutorial outlines the implementation group policies and managing accounts within active directory.<br />
 
 <h2>Environments and Technologies Used</h2>
